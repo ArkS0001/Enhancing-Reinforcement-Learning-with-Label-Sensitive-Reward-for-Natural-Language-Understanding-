@@ -1,0 +1,2 @@
+# Enhancing-Reinforcement-Learning-with-Label-Sensitive-Reward-for-Natural-Language-Understanding-
+Recent strides in large language models (LLMs) have yielded remarkable performance, leveraging reinforcement learning from human feedback (RLHF) to significantly enhance gener. However, RLHF encounters numerous challenges, including the objective mismatch issue, leading to suboptimal performance in Natural Language Understanding (NLU) tasks. 
